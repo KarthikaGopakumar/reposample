@@ -16,3 +16,7 @@ print("helloworld")
 
 # command for commit 
 #     git commit -m "any messages"
+
+# command for push 
+
+    # git push 'nameofrepopath' branch(master/main)
