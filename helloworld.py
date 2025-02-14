@@ -20,3 +20,4 @@ print("helloworld")
 # command for push 
 
     # git push 'nameofrepopath' branch(master/main)
+-->git stash
